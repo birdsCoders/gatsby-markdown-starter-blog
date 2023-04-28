@@ -1,0 +1,9 @@
+# Node artifact files
+node_modules/
+
+# Gatsby build
+public
+.cache/
+
+# env
+.env
