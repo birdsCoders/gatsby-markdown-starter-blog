@@ -36,6 +36,6 @@ To handle CSS, we use [Vanilla-extract](https://vanilla-extract.style/).
 
 ## Contributing
 
-If you have questions, feel free to create an issue on this repository.
+If you have questions, feel free to create an issue on this repository or contact us via email: **birdscoders@gmail.com**.
 
 The blog is powered by [GatsbyJS](https://www.gatsbyjs.org/).
